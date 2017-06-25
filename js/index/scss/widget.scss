@@ -1,0 +1,14 @@
+.w-container{
+    padding: 1rem;
+    $blue: #108ee9;
+    background: $blue;
+    opacity: 0.9;
+    text-align: center;
+    .avatar{
+        display: block;
+        width: 80px;
+        height: 80px;
+        margin: 30px 0;
+        border-radius: 50%;
+    }
+}
